@@ -1,0 +1,1 @@
+# Subtracting integers works similarly to adding integers, but you mostly want the larger number in front that you take away from. It involves taking away an amount from an original amount. For example, if I have 10 - 7, that means my original 10 is going to have 7 taken from it, so you take away 1 from 10 seven times, to reach a result of 3.
